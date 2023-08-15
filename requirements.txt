@@ -1,1 +1,3 @@
 streamlit==1.25.0
+joblit==1.0.1
+numpy==1.25.2
